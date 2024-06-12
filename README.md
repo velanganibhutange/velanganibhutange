@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to become excellent automation tester
 - 💞️ I’m looking to collaborate on an opportunities in software testing domain
 - 📫 Reach me on Linkedin
-- 😄 Refer me vela
+- 😄 Refer me velangani
 - ⚡ Fun fact:I am WEIRD.
 
 <!---
